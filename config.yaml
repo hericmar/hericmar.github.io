@@ -3,17 +3,17 @@ languageCode: "en-us"
 
 title: "Martin Herich"
 
-theme: "links"
+theme: "signature"
 
 params:
   theme: "solarized"
   subtitle: "Software Engineer"
-  links:
-    - type: "GitHub"
+  description: "I build backend systems. Based in Prague."
+  elsewhere:
+    - title: "github.com/hericmar"
       url: "https://github.com/hericmar"
-    - type: "Email"
+    - title: "martin.herich@phire.cz"
       url: "mailto:martin.herich@phire.cz"
-    - type: "pgp"
+    - title: "pgp"
       value: "3715 5E55 9CAF 95D1 A680 CA2B 83A3 9511 C627 D7C8"
       url: "https://keys.openpgp.org/vks/v1/by-fingerprint/37155E559CAF95D1A680CA2B83A39511C627D7C8"
-
